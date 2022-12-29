@@ -7,7 +7,7 @@
 <ol>
     <li> erpc </li>
     <li> PWM </li>
-    <li> bbcar <li>
+    <li> bbcar </li>
     <li> WIFI (ISM43362) </li>
     <li> MQTT </li>
 </ol>
